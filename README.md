@@ -13,3 +13,6 @@ Project để áp dụng những kiến thức đã học về
 ## Git
 - Commands
 - Commit message
+
+## Trang live
+[https://caominhtu.github.io/odin-recipes/](https://caominhtu.github.io/odin-recipes/)
