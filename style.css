@@ -6,6 +6,24 @@ h1 {
     text-align: center;
 }
 
+img {
+    display: block;
+    width: 700px;
+    height: auto;
+    margin: auto;
+}
+
+.footnote {
+    font-style: italic;
+}
+
 .image-credit {
     font-size: x-small;
+    text-align: center;
+    color: gray;
+}
+
+.image-credit a {
+    text-decoration: none;
+    color: gray;
 }
